@@ -13,5 +13,9 @@ https://github.com/najnesnaj/pinetime-zephyr
 ## Pebble
 
 
+## Watchy
+https://watchy.sqfmi.com/
+
+
 ## OSS Apps
 
